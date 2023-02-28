@@ -1,0 +1,1 @@
+Aby zacząć, kliknij w plik index.html z (prawdopodobnie) ikoną twojej przeglądarki. Enjoy!
